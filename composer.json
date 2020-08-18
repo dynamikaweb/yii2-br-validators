@@ -1,0 +1,29 @@
+{
+    "name": "dynamikaweb/yii2-validators",
+    "description": "Yii2 Brazilian document validator",
+    "type": "yii2-extension",
+    "keywords": ["yii", "yii2", "validator", "titulo de eleitor"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "Robson da Rosa Soares",
+            "email": "robson_drs@hotmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "http://github.com/dynamikaweb/yii2-validators/issues",
+        "source": "http://github.com/dynamikaweb/yii2-validators"
+    },
+    "require": {
+        "php": ">=5.5.0",
+        "yiisoft/yii2": "*"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": false,
+    "autoload": {
+        "psr-4": {
+            "dynamikaweb\\validators\\": "src"
+        }
+    }
+}

@@ -8,7 +8,7 @@ class ValidationAsset extends AssetBundle
 {
     public $sourcePath = '@dynamikaweb/validators/assets';
     public $js = [
-        'dynamikaweb.validator.js',
+        'js/dynamikaweb.validator.js',
     ];
     public $depends = [
         'yii\web\YiiAsset',

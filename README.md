@@ -34,7 +34,7 @@ Add the rules as the following example
 
 use Yii;
 use yii\base\Model;
-use dynamikaweb\validator\TituloValidator;
+use dynamikaweb\validators\TituloValidator;
 
 class PersonExample extends Model
 {

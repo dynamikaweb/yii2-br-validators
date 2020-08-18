@@ -1,5 +1,5 @@
 {
-    "name": "dynamikaweb/yii2-validators",
+    "name": "dynamikaweb/yii2-br-validators",
     "description": "Yii2 Brazilian document validator",
     "type": "yii2-extension",
     "keywords": ["yii", "yii2", "validator", "titulo de eleitor"],
@@ -8,6 +8,11 @@
         {
             "name": "Robson da Rosa Soares",
             "email": "robson_drs@hotmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Rodrigo Dornelles",
+            "email": "rodrigo@dornelles.me",
             "role": "Developer"
         }
     ],
